@@ -1,0 +1,19 @@
+.Title {
+    white-space: nowrap;
+    font-size: 1.2em;
+}
+
+.Title * {
+    display: inline;
+}
+
+.Home .list-group-item {
+    background-color: #1C3144 !important;
+    color: #F5F0F6 !important;
+    border: 1px solid #4A5859 !important;
+}
+
+.Home .list-group-item-action:hover {
+    background-color: #4A5859 !important;
+    color: #F5F0F6 !important;
+}

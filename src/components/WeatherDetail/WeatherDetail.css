@@ -1,0 +1,20 @@
+.WeatherDetail {
+    text-align: center;
+    background-color: #3B4145;
+    border: 1px solid #596F62 !important;
+    color: #F5F0F6 !important;
+}
+
+.WeatherDetail h2 {
+    padding-top: 2%;
+}
+
+.WeatherDetail .list-group-item {
+    background-color: #3B4145 !important;
+    color: #F5F0F6 !important;
+    border: 1px solid #596F62 !important;
+}
+
+.WeatherDetail .WeatherIcon {
+    font-size: 2.5em !important;
+}
