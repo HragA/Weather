@@ -27,10 +27,6 @@ To build
 * [MetaWeather API](https://www.metaweather.com/api/)
 * [Weather Icons](https://erikflowers.github.io/weather-icons/)
 
-## Authors
-
-* **Hrag Ayvazian** - *Weather* - [HragA](https://github.com/HragA)
-
 ## License
 
 This project is licensed under the MIT License.
